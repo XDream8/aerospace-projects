@@ -1,0 +1,7 @@
+[project]
+name = "aircraft-performance-calculator"
+version = "0.1.0"
+description = "A numerical analysis tool that calculates performance parameters"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = []
