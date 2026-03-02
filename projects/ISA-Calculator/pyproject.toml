@@ -1,0 +1,7 @@
+[project]
+name = "isa-calculator"
+version = "0.1.0"
+description = "A minimalist, high-performance CLI tool for calculating International Standard Atmosphere (ISA) properties across multiple atmospheric layers."
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = []
